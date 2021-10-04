@@ -20,7 +20,7 @@ This is a full stack social network application for coders who are new to the in
 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[Click here to see the running RWP!](notyet@heroku.com)
+[Click here to see the running RWP!](https://secure-meadow-77946.herokuapp.com/)
 
 ## Installation :
 
